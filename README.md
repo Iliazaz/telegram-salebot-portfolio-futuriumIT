@@ -1,7 +1,7 @@
 # 🤖 Telegram‑бот для продажи IT‑курсов (MVP с платежами и CRM)
 
 <p align="left">
-  <img src="image/bot.jpg" width="80%">
+  <img src="image/Бот.jpg" width="80%">
 </p>
 <p align="rignt">
   <img src="image/Схема бота в Salebot.png" width="80%">
