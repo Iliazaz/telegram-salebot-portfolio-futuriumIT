@@ -1,6 +1,6 @@
 # 🤖 Telegram‑бот для продажи IT‑курсов (MVP с платежами и CRM)
 
-<p align="left">
+<p align="left" widht="100px">
   <img src="image/Бот.jpg" width="80%">
 </p>
 <p align="rignt">
