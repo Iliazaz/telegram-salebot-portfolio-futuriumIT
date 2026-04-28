@@ -57,7 +57,7 @@
 
 ### Видео работы бота (полный цикл)
 <p align="center">
-  <video src="videos/demo.mp4" controls width="600"></video>
+  <video src="rabota-cat-bota_Aw7urBiy.mp4" controls width="600"></video>
 </p>
 
 > Видео показывает: вопросы → персонализация → оплата → подтверждение → лид в CRM.
