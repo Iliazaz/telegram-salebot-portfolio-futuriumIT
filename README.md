@@ -1,11 +1,9 @@
 # 🤖 Telegram‑бот для продажи IT‑курсов (MVP с платежами и CRM)
 
-<p align="left" >
+<p align="center" >
   <img src="image/Бот.jpg" width="20%">
 </p>
-<p align="rignt">
-  <img src="image/Схема бота в Salebot.png" width="80%">
-</p>
+
 
 ## 📌 О проекте
 
