@@ -57,9 +57,14 @@
 <img src="image/Схема бота в Salebot.png" width="100%">
 
 ### Видео работы бота (полный цикл)
+
+
 <p align="center">
-  <video src="rabota-cat-bota_Aw7urBiy.mp4" controls width="600"></video>
+  <a href="https://vkvideo.ru/clip-238184002_456239019" target="_blank">
+    <img src="https://img.youtube.com/vi](https://vkvideo.ru/clip-238184002_456239019/ПРЕВЬЮ.jpg" width="600" alt="Видео-демонстрация">
+  </a>
 </p>
+
 
 > Видео показывает: вопросы → персонализация → оплата → подтверждение → лид в CRM.
 
